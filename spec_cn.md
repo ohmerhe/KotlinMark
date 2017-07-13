@@ -29,6 +29,7 @@ Markdown 是一种用于编写结构化文档的纯文本格式，
 
 可以通过将 [AsciiDoc](http://www.methods.co.nz/asciidoc/) 的例子与Markdown的同样的例子进行比较来说明这一点。以下是 AsciiDoc 手册的 AsciiDoc 示例：
 
+
 ```
 1. List item one.
 +
